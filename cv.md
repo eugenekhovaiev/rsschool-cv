@@ -10,8 +10,9 @@
 <!-- ! add later -->
 
 ## Skills
-* HTML5, CSS3 (SASS/SCSS)
-* JavaScript (Basics)
+* HTML5, CSS3 (SASS/SCSS, BEM)
+* JavaScript Basics
 * C
 * Git, Github
-* Figma
+* VS Code
+* Figma, Avocode
