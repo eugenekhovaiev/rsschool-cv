@@ -7,7 +7,7 @@
 **GitHub:** [eugenekhovaiev](https://github.com/eugenekhovaiev)
 
 ## Briefly About Myself:
-<!-- ! add later -->
+I am a student from Kyiv. I like to learn new things, especially when it's interesting to me. I'm learning quickly and patiently. I have a big positive experience working with cliens and other team members, so my soft skills are at pretty high level. I am not afraid of hard and responsible work. I am sure, that after to this course, I`ll become an excellent web developer.
 
 ## Skills:
 * HTML5, CSS3 (SASS/SCSS, BEM)
@@ -50,7 +50,19 @@ function rememberMyFilm(movieDB, n) {
 }
 ```
 
-## Experience
+## Experience:
 **Couple simple landings**:
 * [Pulse](https://eugenekhovaiev.github.io/Pulse/src)
 * [Uber](https://eugenekhovaiev.github.io/Uber/src)
+
+## Education:
+#### Univercity:
+* NTUU ''Igor Sikorsky Kyiv Polytechnic Institute''
+
+#### Courses:
+* Udemy: HTML / CSS
+* Udemy: JavaScript
+* CS50x 2022
+
+## English level:
+**B2** Upper intermediate
